@@ -1,1 +1,1 @@
-# Python_training
+#  repository for Python Training. Architecture. Selenium.
