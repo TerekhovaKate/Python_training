@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ff9674eb-cee0-4938-8c1d-577f36eaa436" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fixture/group.py" afterPath="$PROJECT_DIR$/fixture/group.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/model/group.py" afterPath="$PROJECT_DIR$/model/group.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/add_new_group.py" afterPath="$PROJECT_DIR$/test/add_new_group.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/test_del_group.py" afterPath="$PROJECT_DIR$/test/test_del_group.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/test_modify_group.py" afterPath="$PROJECT_DIR$/test/test_modify_group.py" />
     </list>
     <ignored path="Python_training.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -28,7 +32,7 @@
         <entry file="file://$PROJECT_DIR$/test/add_new_group.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="15" column="43" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="43" />
+              <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="93" />
               <folding />
             </state>
           </provider>
@@ -46,31 +50,41 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="test_add_group.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test_add_group.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="test_del_group.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/test_del_group.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+              <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="group.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="group.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/model/group.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.23780487">
-              <caret line="13" column="62" selection-start-line="13" selection-start-column="62" selection-end-line="13" selection-end-column="62" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="19" column="27" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test_modify_group.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="test_modify_group.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test/test_modify_group.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.38414633">
+              <caret line="21" column="4" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -80,7 +94,7 @@
         <entry file="file://$PROJECT_DIR$/fixture/group.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="84" column="47" selection-start-line="84" selection-start-column="47" selection-end-line="84" selection-end-column="47" />
+              <caret line="84" column="0" selection-start-line="84" selection-start-column="0" selection-end-line="84" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -90,7 +104,17 @@
         <entry file="file://$PROJECT_DIR$/conftest.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="26" column="18" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
+              <caret line="26" column="17" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="session.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fixture/session.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="26" column="4" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -134,17 +158,17 @@
         <option value="$PROJECT_DIR$/fixture/session.py" />
         <option value="$PROJECT_DIR$/text.txt" />
         <option value="$PROJECT_DIR$/test.py" />
-        <option value="$PROJECT_DIR$/test/add_new_group.py" />
-        <option value="$PROJECT_DIR$/fixture/group.py" />
-        <option value="$PROJECT_DIR$/test/test_modify_group.py" />
         <option value="$PROJECT_DIR$/test/test_del_group.py" />
+        <option value="$PROJECT_DIR$/fixture/group.py" />
         <option value="$PROJECT_DIR$/model/group.py" />
+        <option value="$PROJECT_DIR$/test/add_new_group.py" />
+        <option value="$PROJECT_DIR$/test/test_modify_group.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1040" />
-    <option name="y" value="23" />
+    <option name="x" value="1328" />
+    <option name="y" value="121" />
     <option name="width" value="1649" />
     <option name="height" value="1337" />
   </component>
@@ -258,7 +282,7 @@
       <recent name="$PROJECT_DIR$/Python_training/test" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.py.test in test_del_group.py">
+  <component name="RunManager" selected="Python tests.py.test in test_modify_group.py">
     <configuration default="false" name="py.test in add_new_group.py" type="tests" factoryName="py.test" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -528,9 +552,9 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python tests.py.test in test_del_group.py" />
-        <item index="1" class="java.lang.String" itemvalue="Python tests.py.test in test_modify_group.py" />
-        <item index="2" class="java.lang.String" itemvalue="Python tests.py.test in add_new_group.py" />
+        <item index="0" class="java.lang.String" itemvalue="Python tests.py.test in test_modify_group.py" />
+        <item index="1" class="java.lang.String" itemvalue="Python tests.py.test in add_new_group.py" />
+        <item index="2" class="java.lang.String" itemvalue="Python tests.py.test in test_del_group.py" />
         <item index="3" class="java.lang.String" itemvalue="Python.test" />
         <item index="4" class="java.lang.String" itemvalue="Python tests.py.test in test1.py" />
       </list>
@@ -550,39 +574,39 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="py_test_in_add_new_group_py - 2016.02.21 at 20h 04m 40s.xml">
+    <history-entry file="py_test_in_add_new_group_py - 2016.02.24 at 20h 26m 59s.xml">
       <configuration name="py.test in add_new_group.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_add_new_group_py - 2016.02.21 at 20h 05m 15s.xml">
+    <history-entry file="py_test_in_add_new_group_py - 2016.02.24 at 21h 07m 39s.xml">
       <configuration name="py.test in add_new_group.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_add_new_group_py - 2016.02.21 at 20h 14m 34s.xml">
+    <history-entry file="py_test_in_add_new_group_py - 2016.02.24 at 21h 36m 22s.xml">
       <configuration name="py.test in add_new_group.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_test_del_group_py - 2016.02.21 at 20h 13m 33s.xml">
-      <configuration name="py.test in test_del_group.py" configurationId="tests" />
+    <history-entry file="py_test_in_add_new_group_py - 2016.02.24 at 21h 42m 13s.xml">
+      <configuration name="py.test in add_new_group.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_test_del_group_py - 2016.02.21 at 20h 13m 57s.xml">
-      <configuration name="py.test in test_del_group.py" configurationId="tests" />
+    <history-entry file="py_test_in_add_new_group_py - 2016.02.24 at 21h 42m 39s.xml">
+      <configuration name="py.test in add_new_group.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_test_del_group_py - 2016.02.21 at 20h 14m 23s.xml">
-      <configuration name="py.test in test_del_group.py" configurationId="tests" />
+    <history-entry file="py_test_in_add_new_group_py - 2016.02.24 at 21h 43m 23s.xml">
+      <configuration name="py.test in add_new_group.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_test_del_group_py - 2016.02.21 at 20h 34m 00s.xml">
-      <configuration name="py.test in test_del_group.py" configurationId="tests" />
+    <history-entry file="py_test_in_add_new_group_py - 2016.02.24 at 21h 44m 54s.xml">
+      <configuration name="py.test in add_new_group.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_test_del_group_py - 2016.02.21 at 20h 36m 20s.xml">
-      <configuration name="py.test in test_del_group.py" configurationId="tests" />
+    <history-entry file="py_test_in_add_new_group_py - 2016.02.24 at 21h 50m 37s.xml">
+      <configuration name="py.test in add_new_group.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_test_del_group_py - 2016.02.21 at 20h 38m 34s.xml">
-      <configuration name="py.test in test_del_group.py" configurationId="tests" />
+    <history-entry file="py_test_in_test_modify_group_py - 2016.02.24 at 20h 26m 51s.xml">
+      <configuration name="py.test in test_modify_group.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_test_modify_group_py - 2016.02.21 at 20h 16m 00s.xml">
+    <history-entry file="py_test_in_test_modify_group_py - 2016.02.24 at 21h 54m 09s.xml">
       <configuration name="py.test in test_modify_group.py" configurationId="tests" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1040" y="23" width="1649" height="1337" extended-state="0" />
+    <frame x="1328" y="121" width="1649" height="1337" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22665848" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -728,7 +752,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
           <folding>
-            <element signature="e#2#60#0" expanded="true" />
+            <element signature="e#2#60#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -755,7 +779,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
           <folding>
-            <element signature="e#2#60#0" expanded="true" />
+            <element signature="e#2#60#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -772,7 +796,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
           <folding>
-            <element signature="e#2#60#0" expanded="true" />
+            <element signature="e#2#60#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -789,7 +813,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
           <folding>
-            <element signature="e#2#60#0" expanded="true" />
+            <element signature="e#2#60#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -806,7 +830,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
           <folding>
-            <element signature="e#2#60#0" expanded="true" />
+            <element signature="e#2#60#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -815,13 +839,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_add_group.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.14481094">
-          <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
         </state>
       </provider>
     </entry>
@@ -847,19 +864,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fixture/session.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.47560975">
-          <caret line="26" column="4" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/fixture/application.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.5304878">
           <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
           <folding>
-            <element signature="e#2#60#0" expanded="true" />
+            <element signature="e#2#60#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -868,6 +878,30 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fixture/session.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="26" column="4" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conftest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="26" column="17" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/test_del_group.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
           <folding />
         </state>
       </provider>
@@ -882,10 +916,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/conftest.py">
+    <entry file="file://$PROJECT_DIR$/test_add_group.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="26" column="18" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
+          <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
           <folding />
         </state>
       </provider>
@@ -893,7 +927,15 @@
     <entry file="file://$PROJECT_DIR$/fixture/group.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="84" column="47" selection-start-line="84" selection-start-column="47" selection-end-line="84" selection-end-column="47" />
+          <caret line="84" column="0" selection-start-line="84" selection-start-column="0" selection-end-line="84" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/group.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="19" column="27" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
           <folding />
         </state>
       </provider>
@@ -901,31 +943,15 @@
     <entry file="file://$PROJECT_DIR$/test/add_new_group.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="15" column="43" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="43" />
+          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="93" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test/test_modify_group.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/test_del_group.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/model/group.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.23780487">
-          <caret line="13" column="62" selection-start-line="13" selection-start-column="62" selection-end-line="13" selection-end-column="62" />
+        <state vertical-scroll-proportion="0.38414633">
+          <caret line="21" column="4" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
           <folding />
         </state>
       </provider>
