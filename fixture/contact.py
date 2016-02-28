@@ -55,7 +55,7 @@ class ContactHelper:
         mobphone = wd.find_element_by_name("mobile").get_attribute("value")
         workphone = wd.find_element_by_name("work").get_attribute("value")
         secondaryphone= wd.find_element_by_name("phone2").get_attribute("value")
-        return Contact(firstname=firstname, lastname=lastname,id=id, homephone=homephone, workphone=workphone, mobphone=mobphone, secondaryphone=secondaryphone)
+        return Contact(firstname=firstname, lastname=lastname,id=id, homephone=homephone, mobphone=mobphone,workphone=workphone, secondaryphone=secondaryphone)
 
     def get_contact_from_view_page(self, index):
         wd = self.app.wd
@@ -65,7 +65,7 @@ class ContactHelper:
         mobphone = re.search("M: (.*)", text).group(1)
         workphone = re.search("W: (.*)", text).group(1)
         secondaryphone = re.search("P: (.*)", text).group(1)
-        return Contact(homephone=homephone, workphone=workphone, mobphone=mobphone, secondaryphone=secondaryphone)
+        return Contact(homephone=homephone, mobphone=mobphone, workphone=workphone, secondaryphone=secondaryphone)
 
 
 
