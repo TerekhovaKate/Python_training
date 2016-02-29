@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ff9674eb-cee0-4938-8c1d-577f36eaa436" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fixture/contact.py" afterPath="$PROJECT_DIR$/fixture/contact.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/phone_text.py" afterPath="$PROJECT_DIR$/test/phone_text.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/model/group.py" afterPath="$PROJECT_DIR$/model/group.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/add_new_group.py" afterPath="$PROJECT_DIR$/test/add_new_group.py" />
     </list>
     <ignored path="Python_training.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -24,12 +24,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="add_new_group.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="add_new_group.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test/add_new_group.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
-              <folding />
+            <state vertical-scroll-proportion="0.16463415">
+              <caret line="9" column="73" selection-start-line="9" selection-start-column="73" selection-end-line="9" selection-end-column="73" />
+              <folding>
+                <element signature="e#25#54#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -50,7 +52,7 @@
         <entry file="file://$PROJECT_DIR$/model/group.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="19" column="27" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
+              <caret line="21" column="26" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -122,11 +124,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="phone_text.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="phone_text.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/phone_text.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.3292683">
-              <caret line="18" column="4" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -158,8 +160,6 @@
         <option value="$PROJECT_DIR$/conftest.py" />
         <option value="$PROJECT_DIR$/text.txt" />
         <option value="$PROJECT_DIR$/test.py" />
-        <option value="$PROJECT_DIR$/model/group.py" />
-        <option value="$PROJECT_DIR$/test/add_new_group.py" />
         <option value="$PROJECT_DIR$/test/test_del_group.py" />
         <option value="$PROJECT_DIR$/test/test_modify_group.py" />
         <option value="$PROJECT_DIR$/fixture/group.py" />
@@ -168,6 +168,8 @@
         <option value="$PROJECT_DIR$/model/contact.py" />
         <option value="$PROJECT_DIR$/fixture/contact.py" />
         <option value="$PROJECT_DIR$/test/phone_text.py" />
+        <option value="$PROJECT_DIR$/model/group.py" />
+        <option value="$PROJECT_DIR$/test/add_new_group.py" />
       </list>
     </option>
   </component>
@@ -287,7 +289,7 @@
       <recent name="$PROJECT_DIR$/Python_training/test" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.py.test in phone_text.py">
+  <component name="RunManager" selected="Python tests.py.test in add_new_group.py">
     <configuration default="false" name="py.test in add_new_group.py" type="tests" factoryName="py.test" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -564,9 +566,9 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python tests.py.test in phone_text.py" />
-        <item index="1" class="java.lang.String" itemvalue="Python tests.py.test in test_phones_on_contact_view_page" />
-        <item index="2" class="java.lang.String" itemvalue="Python tests.py.test in add_new_group.py" />
+        <item index="0" class="java.lang.String" itemvalue="Python tests.py.test in add_new_group.py" />
+        <item index="1" class="java.lang.String" itemvalue="Python tests.py.test in phone_text.py" />
+        <item index="2" class="java.lang.String" itemvalue="Python tests.py.test in test_phones_on_contact_view_page" />
         <item index="3" class="java.lang.String" itemvalue="Python tests.py.test in test_modify_group.py" />
         <item index="4" class="java.lang.String" itemvalue="Python tests.py.test in test_del_group.py" />
       </list>
@@ -586,47 +588,47 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="py_test_in_phone_text_py - 2016.02.28 at 14h 10m 43s.xml">
-      <configuration name="py.test in phone_text.py" configurationId="tests" />
+    <history-entry file="py_test_in_add_new_group_py - 2016.02.28 at 15h 16m 52s.xml">
+      <configuration name="py.test in add_new_group.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_phone_text_py - 2016.02.28 at 14h 12m 09s.xml">
-      <configuration name="py.test in phone_text.py" configurationId="tests" />
+    <history-entry file="py_test_in_add_new_group_py - 2016.02.28 at 15h 17m 05s.xml">
+      <configuration name="py.test in add_new_group.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_phone_text_py - 2016.02.28 at 14h 12m 38s.xml">
-      <configuration name="py.test in phone_text.py" configurationId="tests" />
+    <history-entry file="py_test_in_add_new_group_py - 2016.02.28 at 15h 17m 22s.xml">
+      <configuration name="py.test in add_new_group.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_phone_text_py - 2016.02.28 at 14h 13m 45s.xml">
-      <configuration name="py.test in phone_text.py" configurationId="tests" />
+    <history-entry file="py_test_in_add_new_group_py - 2016.02.28 at 15h 18m 36s.xml">
+      <configuration name="py.test in add_new_group.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_phone_text_py - 2016.02.28 at 14h 14m 55s.xml">
-      <configuration name="py.test in phone_text.py" configurationId="tests" />
+    <history-entry file="py_test_in_add_new_group_py - 2016.02.28 at 15h 19m 59s.xml">
+      <configuration name="py.test in add_new_group.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_phone_text_py - 2016.02.28 at 14h 21m 56s.xml">
-      <configuration name="py.test in phone_text.py" configurationId="tests" />
+    <history-entry file="py_test_in_add_new_group_py - 2016.02.28 at 18h 14m 02s.xml">
+      <configuration name="py.test in add_new_group.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_phone_text_py - 2016.02.28 at 14h 22m 39s.xml">
-      <configuration name="py.test in phone_text.py" configurationId="tests" />
+    <history-entry file="py_test_in_add_new_group_py - 2016.02.28 at 18h 14m 46s.xml">
+      <configuration name="py.test in add_new_group.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_phone_text_py - 2016.02.28 at 14h 23m 08s.xml">
-      <configuration name="py.test in phone_text.py" configurationId="tests" />
+    <history-entry file="py_test_in_add_new_group_py - 2016.02.28 at 18h 15m 12s.xml">
+      <configuration name="py.test in add_new_group.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_phone_text_py - 2016.02.28 at 14h 23m 22s.xml">
-      <configuration name="py.test in phone_text.py" configurationId="tests" />
+    <history-entry file="py_test_in_add_new_group_py - 2016.02.28 at 18h 16m 39s.xml">
+      <configuration name="py.test in add_new_group.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_phone_text_py - 2016.02.28 at 14h 24m 09s.xml">
-      <configuration name="py.test in phone_text.py" configurationId="tests" />
+    <history-entry file="py_test_in_add_new_group_py - 2016.02.28 at 18h 19m 37s.xml">
+      <configuration name="py.test in add_new_group.py" configurationId="tests" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="1174" y="53" width="1649" height="1337" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13820639" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296617" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33280882" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33280882" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296617" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -681,7 +683,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#25#54#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -759,7 +763,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#25#54#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -794,7 +800,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="29" />
-          <folding />
+          <folding>
+            <element signature="e#25#54#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -983,14 +991,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/add_new_group.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test/test_del_group.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1008,14 +1008,6 @@
           <folding>
             <element signature="e#2#31#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/model/group.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="19" column="27" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1065,9 +1057,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test/phone_text.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3292683">
-          <caret line="18" column="4" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/group.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="21" column="26" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/add_new_group.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.16463415">
+          <caret line="9" column="73" selection-start-line="9" selection-start-column="73" selection-end-line="9" selection-end-column="73" />
+          <folding>
+            <element signature="e#25#54#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
