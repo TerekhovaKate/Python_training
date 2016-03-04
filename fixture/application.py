@@ -9,6 +9,7 @@ from fixture.contact import ContactHelper
 class Application:
 
     def __init__(self, browser, base_url):
+        #allous you to chose browser from terminal
         if browser == "firefox":
             self.wd = webdriver.Firefox()
         elif browser == "chrome":
@@ -17,12 +18,17 @@ class Application:
             self.wd == webdriver.Ie()
         else:
             raise ValueError("Unrecognized broweser %s" % browser)
-        self.wd = webdriver.Firefox()
-        self.wd.implicitly_wait(5)
+
         self.session = SessionHelper(self)
         self.group = GroupHelper(self)
         self.contact = ContactHelper(self)
         self.base_url = base_url
+        '''
+        self.wd = webdriver.Firefox()
+        self.wd.implicitly_wait(5)
+
+
+        '''
 
     def is_valid(self):
         try:
